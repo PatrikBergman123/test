@@ -1,1 +1,2 @@
 Hello this is example text file
+this is second line
